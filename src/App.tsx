@@ -9,7 +9,7 @@ function App() {
           className="h-[40vmin] pointer-events-none animate-[spin_20s_linear_infinite]"
           alt="logo"
         />
-        <p className="text-[#7B42BC] font-bold">Saliyab Terraform 🎉</p>
+        <p className="text-[#7B42BC] font-bold">Migs Hatdog🎉</p>
       </header>
     </div>
   );
